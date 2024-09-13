@@ -1,0 +1,5 @@
+/Users/feiyue/school_projects/2240/path-feiyue-z/build/build-path-feiyue-z-Qt_6_5_2_for_macOS-Release/CMakeFiles/path.dir
+/Users/feiyue/school_projects/2240/path-feiyue-z/build/build-path-feiyue-z-Qt_6_5_2_for_macOS-Release/CMakeFiles/edit_cache.dir
+/Users/feiyue/school_projects/2240/path-feiyue-z/build/build-path-feiyue-z-Qt_6_5_2_for_macOS-Release/CMakeFiles/rebuild_cache.dir
+/Users/feiyue/school_projects/2240/path-feiyue-z/build/build-path-feiyue-z-Qt_6_5_2_for_macOS-Release/CMakeFiles/path_autogen_timestamp_deps.dir
+/Users/feiyue/school_projects/2240/path-feiyue-z/build/build-path-feiyue-z-Qt_6_5_2_for_macOS-Release/CMakeFiles/path_autogen.dir
